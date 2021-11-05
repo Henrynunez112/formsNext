@@ -5,7 +5,7 @@ import ControlledInput from './ControlledInput'
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
-      {/* <ControlledInput /> */}
+      <ControlledInput />
     </div>
   )
 }
